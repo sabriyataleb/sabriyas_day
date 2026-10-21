@@ -30,6 +30,5 @@ Ouvrir le projet dans Eclipse avec JavaFX configuré, puis exécuter AppTaches.
 - JavaFX
 - CSS JavaFX
 
-## Auteure
-
-Sabriya Taleb
+#Sabriya's Day 
+![Capture de l’application](capture.png)
