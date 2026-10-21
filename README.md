@@ -30,5 +30,5 @@ Ouvrir le projet dans Eclipse avec JavaFX configuré, puis exécuter AppTaches.
 - JavaFX
 - CSS JavaFX
 
-#Sabriya's Day 
+# Sabriya's Day 
 ![Capture de l’application](capture.png)
